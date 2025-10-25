@@ -1,0 +1,14 @@
+
+
+server:
+  port: 8080
+spring:
+  application:
+    name: oauth-server
+  security:
+    user:
+      name: bill
+      password: password
+logging:
+  level:
+    org.springframework.security: trace
