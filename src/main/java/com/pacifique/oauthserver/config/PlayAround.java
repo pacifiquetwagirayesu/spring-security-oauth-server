@@ -1,4 +1,4 @@
-package com.pacifique.ssiach14ex1.config;
+package com.pacifique.oauthserver.config;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
